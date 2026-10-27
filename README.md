@@ -1,7 +1,4 @@
 # CNTT1-nh-p-m-n-c-ng-ngh-th-ng-tin-Session02_Exontap
-Dưới đây là bản làm lại cực kỳ ngắn gọn, cô đọng đúng trọng tâm dạng đáp án bài tập để tự nhiên nhất:
-
----
 
 ## Phần 1 – Lĩnh vực CNTT & Đơn vị lưu trữ
 
